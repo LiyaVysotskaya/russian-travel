@@ -1,6 +1,6 @@
 .header__lang-link {
   padding: 0;
-  margin-right: 18px;
+  margin-right: 14px;
   margin-bottom: 6px;
   font-size: 24px;
   line-height: 1.17;
@@ -13,4 +13,24 @@
 
 .header__lang-link:last-child {
   margin-right: 0;
+}
+
+@media screen and (max-width: 1279px) {
+  .header__lang-link {
+    margin-right: 14px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .header__lang-link {
+    text-shadow: none;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang-link {
+    margin-bottom: 8px;
+    font-size: 18px;
+    line-height: 1.1;
+  }
 }
