@@ -1,24 +1,23 @@
 .header__lang-link {
   padding: 0;
-  margin-right: 14px;
+  margin-right: 18px;
   margin-bottom: 6px;
   font-size: 24px;
   line-height: 1.17;
   font-weight: 400;
   font-style: normal;
   text-decoration: none;
+  text-align: right;
   color: #FFFFFF;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  transition: opacity .4s;
 }
+  .header__lang-link:hover {
+    opacity: 0.5;
+  }
 
 .header__lang-link:last-child {
   margin-right: 0;
-}
-
-@media screen and (max-width: 1279px) {
-  .header__lang-link {
-    margin-right: 14px;
-  }
 }
 
 @media screen and (max-width: 1023px) {

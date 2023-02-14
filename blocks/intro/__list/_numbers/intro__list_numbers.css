@@ -1,0 +1,11 @@
+.intro__list_numbers {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  line-height: 1.5;
+  font-weight: 400;
+  font-style: normal;
+  color: #FFFFFF;
+  list-style: none;
+}
+
