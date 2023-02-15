@@ -29,11 +29,13 @@
 @import url(../blocks/photo-grid/__items/photo-grid__items.css);
 @import url(../blocks/photo-grid/__item/_photo/photo-grid__item_photo.css);
 
-@import url(../blocks/place/place.css);
-@import url(../blocks/place/__image/place__image.css);
-@import url(../blocks/place/__paragraph/place__paragraph.css);
-@import url(../blocks/place/__title/place__title.css);
-@import url(../blocks/place/__website/place__website.css);
+@import url(../blocks/places/place/place.css);
+@import url(../blocks/places/place/__image/place__image.css);
+@import url(../blocks/places/place/__link/place__link.css);
+@import url(../blocks/places/place/__paragraph/place__paragraph.css);
+@import url(../blocks/places/place/__title/place__title.css);
+@import url(../blocks/places/place/__url-heading/place____url-heading.css);
+@import url(../blocks/places/place/__website/place__website.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__background/cover__background.css);
