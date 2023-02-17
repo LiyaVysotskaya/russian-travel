@@ -1,0 +1,14 @@
+.place__paragraph {
+  grid-area: text;
+  padding: 0 0 26px 0;
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.63;
+  font-weight: 400;
+  font-style: normal;
+  color: #FFFFFF;
+}
+
+.place__paragraph:last-child {
+  padding: 0;
+}

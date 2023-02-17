@@ -13,7 +13,7 @@
   transition: opacity .4s;
 }
   .header__lang-link:hover {
-    opacity: 0.5;
+    opacity: 0.8;
   }
 
 .header__lang-link:last-child {

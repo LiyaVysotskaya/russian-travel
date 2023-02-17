@@ -1,0 +1,8 @@
+.places {
+  width: 100%;
+  padding: 46px 148px;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 80px;
+}
