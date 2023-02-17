@@ -15,10 +15,9 @@
   .header__lang-link:hover {
     opacity: 0.8;
   }
-
-.header__lang-link:last-child {
-  margin-right: 0;
-}
+  .header__lang-link:last-child {
+    margin-right: 0;
+  }
 
 @media screen and (max-width: 1023px) {
   .header__lang-link {
