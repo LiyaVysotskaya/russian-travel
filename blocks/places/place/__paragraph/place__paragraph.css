@@ -21,7 +21,14 @@
 
 @media screen and (max-width: 1023px){
   .place__paragraph {
-    padding: 0 16px 25px;
+    padding-bottom: 25px;
     font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 767px){
+  .place__paragraph {
+    padding: 0 16px 25px;
+
   }
 }

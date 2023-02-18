@@ -8,5 +8,26 @@
   font-style: normal;
   text-align: center;
   color: #FFFFFF;
-  z-index: 2;
+  z-index: 3;
+}
+
+@media screen and (max-width: 1279px) {
+  .cover__title {
+    padding: 195px 232px 0;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .cover__title {
+    padding: 115px 104px 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover__title {
+    max-width: 288px;
+    padding: 33px 16px 0;
+    font-size: 32px;
+    line-height: 1.09;
+  }
 }
