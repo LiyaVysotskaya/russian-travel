@@ -21,13 +21,13 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__title/intro__title.css);
-@import url(../blocks/intro/__list/_item/intro__list_item.css);
-@import url(../blocks/intro/__list/_numbers/intro__list_numbers.css);
+@import url(../blocks/intro/__list-text/intro__list-text.css);
+@import url(../blocks/intro/__number/intro__number.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/photo-grid/__items/photo-grid__items.css);
-@import url(../blocks/photo-grid/__item/_photo/photo-grid__item_photo.css);
+@import url(../blocks/photo-grid/__photo/photo-grid__photo.css);
 
 @import url(../blocks/places/places.css);
 @import url(../blocks/places/place/place.css);
