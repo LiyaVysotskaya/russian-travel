@@ -1,8 +1,7 @@
 .footer__link {
   max-width: fit-content;
   margin: 0;
-  padding: 0 18px 0 0;
-  display: flex;
+  padding: 0;
   font-size: 16px;
   line-height: 1.12;
   font-weight: 400;
@@ -19,6 +18,5 @@
   .footer__link {
     font-size: 24px;
     line-height: 1;
-    padding: 0 18px 32px 0;
   }
 }
